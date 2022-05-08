@@ -9,4 +9,4 @@ k=int(wartosci[1])
 if k == 0 or k == n : 
   print('1')
 else : 
-  print(Newton(n,k))
+  print(int(Newton(n,k)))
